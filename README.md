@@ -1,5 +1,3 @@
-<!-- README do projeto GastroFlow — gerado seguindo o template do Prof. Dr. João Paulo Aramuni -->
-
 # 🍰 GastroFlow 👨‍🍳
 
 > [!NOTE]
@@ -15,8 +13,7 @@
     </td>
     <td>
       <div align="center">
-        <!-- Logo do GastroFlow — substitua pelo arquivo real após criação -->
-        <img src="https://via.placeholder.com/120x120/2C6E49/FFFFFF?text=GF" alt="Logo GastroFlow" width="120px"/>
+        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f370/512.gif" alt="Logo GastroFlow" width="120px"/>
       </div>
     </td>
   </tr>
@@ -94,9 +91,6 @@ O GastroFlow ataca três problemas simultâneos:
 **Por que é relevante:**
 O mercado de confeitaria artesanal e delivery de comida no Brasil cresceu mais de 30% pós-pandemia. O GastroFlow serve este nicho com uma proposta de valor clara, onboarding guiado e stickiness natural pela centralização de dados da operação.
 
-> [!NOTE]
-> Este projeto não possui código implementado — trata-se de documentação de projeto completa, incluindo arquitetura, diagramas UML e especificação técnica detalhada.
-
 ---
 
 ## ✨ Funcionalidades Principais
@@ -108,7 +102,7 @@ O mercado de confeitaria artesanal e delivery de comida no Brasil cresceu mais d
 - 🛒 **Lista de Compras Automatizada (Explosão de Demanda):** Cruzamento automático entre pedidos do período e estoque atual, gerando a quantidade exata de cada insumo a comprar.
 - 📊 **Relatórios Financeiros:** Visualização de receita, custos e margem por período.
 - 🔐 **Autenticação Segura:** Login com JWT e suporte a OAuth2 (Google).
-- 🚀 **Onboarding Guiado:** O sistema detecta o segmento do usuário (Confeitaria, Marmitaria, Hambúrguer) e pré-carrega os 30 insumos mais comuns com preços médios de mercado.
+- 🚀 **Onboarding Guiado:** O sistema detecta o segmento do usuário (Confeitaria, Doceiro, Dark Kitchen) e pré-carrega os 30 insumos mais comuns com preços médios de mercado.
 - 💳 **Assinaturas via Stripe/Asaas:** Cobrança recorrente de planos diretamente pela plataforma.
 
 ---
@@ -169,9 +163,6 @@ Os diagramas abaixo foram gerados com **PlantUML**. Para visualizá-los interati
 | <img src="./docs/img/der.png" alt="Diagrama Entidade-Relacionamento" width="320px"> | <img src="./docs/img/estados_pedido.png" alt="Diagrama de Estados do Pedido" width="320px"> |
 | **Diagrama de Componentes** | **Diagrama de Implantação** |
 | <img src="./docs/img/componentes.png" alt="Diagrama de Componentes" width="320px"> | <img src="./docs/img/implantacao.png" alt="Diagrama de Implantação AWS" width="320px"> |
-
-> [!NOTE]
-> As imagens acima devem ser geradas exportando os diagramas PlantUML da documentação de projeto e salvas em `/docs/img/`. Os fontes `.puml` completos estão no arquivo `GastroFlow_Documentacao_Projeto.docx`.
 
 ---
 
@@ -418,9 +409,6 @@ gastroflow/
 ---
 
 ## 🎥 Demonstração
-
-> [!WARNING]
-> Substitua os placeholders abaixo por GIFs e screenshots reais da aplicação. Recomenda-se hospedar as imagens no **GitHub Pages** ou em um CDN para garantir carregamento rápido.
 
 ### 🌐 Aplicação Web
 
