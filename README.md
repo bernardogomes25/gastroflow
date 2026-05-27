@@ -68,7 +68,7 @@
 * 📖 **Documentação da API:** [Swagger / OpenAPI](https://api.gastroflow.com/docs)
   > 📚 **Descrição:** Documentação interativa de todos os endpoints REST da plataforma, gerada automaticamente via Swagger UI.
 
-* 📖 **Documentação de Projeto:** [Documentação UML Completa](./docs/GastroFlow_Documentacao_Projeto.docx)
+* 📖 **Documentação de Projeto:** [Documentação UML Completa](./docs/GastroFlow_Documentacao_Projeto_v6.pdf)
   > 📚 **Descrição:** Documento com diagramas PlantUML (Casos de Uso, Sequência, Classes, DER, Estados, Comunicação e Implantação).
 
 ---
@@ -98,7 +98,7 @@ O mercado de confeitaria artesanal e delivery de comida no Brasil cresceu mais d
 - 🧾 **Ficha Técnica & Precificação:** Cadastro de receitas com cálculo automático de custo por grama/unidade e sugestão de preço de venda baseada em margem configurável.
 - 📦 **Gestão de Insumos:** CRUD completo de insumos com unidade de medida, preço pago e quantidade da embalagem — o sistema calcula o custo unitário automaticamente.
 - 📋 **Gestão de Pedidos:** Criação de pedidos vinculando produtos, cliente e data de entrega, com cálculo automático do valor total.
-- 🖥️ **Painel KDS (Kitchen Display System):** Interface otimizada para tablet/monitor na cozinha com cards de pedidos em três colunas: *A Receber*, *Em Preparo* e *Pronto/Embalagem* — atualização em tempo real via WebSocket.
+- 🖥️ **Painel KDS (Kitchen Display System):** Interface otimizada para tablet/monitor na cozinha com cards de pedidos em três colunas: *Fila*, *Em Preparo* e *Pronto/Embalagem* — atualização em tempo real via WebSocket.
 - 🛒 **Lista de Compras Automatizada (Explosão de Demanda):** Cruzamento automático entre pedidos do período e estoque atual, gerando a quantidade exata de cada insumo a comprar.
 - 📊 **Relatórios Financeiros:** Visualização de receita, custos e margem por período.
 - 🔐 **Autenticação Segura:** Login com JWT e suporte a OAuth2 (Google).
