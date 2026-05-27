@@ -13,7 +13,7 @@
     </td>
     <td>
       <div align="center">
-        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f370/512.gif" alt="Logo GastroFlow" width="120px"/>
+        <img src="./assets/img/gastroflow_logo.png" alt="Logo GastroFlow" width="120px"/>
       </div>
     </td>
   </tr>
@@ -23,7 +23,7 @@
 
 ## 🚧 Status do Projeto
 
-[![Versão](https://img.shields.io/badge/Versão-v1.0.0-2C6E49?style=for-the-badge)](https://github.com/seu-usuario/gastroflow/releases)
+[![Versão](https://img.shields.io/badge/Versão-v1.0.0-2C6E49?style=for-the-badge)](https://github.com/bernardogomes25/gastroflow/releases)
 ![Next.js](https://img.shields.io/badge/Next.js-15.x-007ec6?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-007ec6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-20.x-007ec6?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -31,7 +31,7 @@
 ![Prisma](https://img.shields.io/badge/Prisma-5.x-007ec6?style=for-the-badge&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-24.x-007ec6?style=for-the-badge&logo=docker&logoColor=white)
 [![Licença](https://img.shields.io/badge/Licença-MIT-007ec6?style=for-the-badge&logo=opensourceinitiative)](LICENSE)
-[![GitHub last commit](https://img.shields.io/github/last-commit/seu-usuario/gastroflow?style=for-the-badge&logo=clockify)](https://github.com/seu-usuario/gastroflow/commits/main)
+[![GitHub last commit](https://img.shields.io/github/last-commit/bernardogomes25/gastroflow?style=for-the-badge&logo=clockify)](https://github.com/bernardogomes25/gastroflow/commits/main)
 
 ---
 
@@ -219,7 +219,7 @@ NEXTAUTH_URL=https://gastroflow.vercel.app
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/gastroflow.git
+git clone https://github.com/bernardogomes25/gastroflow.git
 cd gastroflow
 ```
 
@@ -497,7 +497,7 @@ npm run test:e2e
 
 | 👤 Nome | 🖼️ Foto | :octocat: GitHub | 💼 LinkedIn | 📤 Gmail |
 |---------|----------|-----------------|-------------|-----------|
-| Bernardo Gomes Pereira | <div align="center"><img src="https://via.placeholder.com/70x70/2C6E49/FFFFFF?text=EU" width="70px" height="70px"></div> | <div align="center"><a href="https://github.com/bernardogomes25"><img src="https://joaopauloaramuni.github.io/image/github6.png" width="50px" height="50px"></a></div> | <div align="center"><a href="https://www.linkedin.com/in/bernardogomespereira/"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png" width="50px" height="50px"></a></div> | <div align="center"><a href="mailto:be.gpereira25@gmail.com"><img src="https://joaopauloaramuni.github.io/image/gmail3.png" width="50px" height="50px"></a></div> |
+| Bernardo Gomes Pereira | <div align="center"><img src="./assets/img/me_pfp.png" width="70px" height="70px"></div> | <div align="center"><a href="https://github.com/bernardogomes25"><img src="https://joaopauloaramuni.github.io/image/github6.png" width="50px" height="50px"></a></div> | <div align="center"><a href="https://www.linkedin.com/in/bernardogomespereira/"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png" width="50px" height="50px"></a></div> | <div align="center"><a href="mailto:be.gpereira25@gmail.com"><img src="https://joaopauloaramuni.github.io/image/gmail3.png" width="50px" height="50px"></a></div> |
 
 ---
 
